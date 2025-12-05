@@ -4,5 +4,4 @@ numpy
 scikit-learn
 plotly
 GitHub
-BeautifulSoup
-lxml
+google-genai
