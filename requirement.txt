@@ -1,7 +1,7 @@
 streamlit
+google-genai
 pandas
 numpy
 scikit-learn
 plotly
 GitHub
-google-genai
